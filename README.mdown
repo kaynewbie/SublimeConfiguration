@@ -1,0 +1,2 @@
+`Sublime text 3` 配置文件备份。
+备份目录：Packages/User 。
